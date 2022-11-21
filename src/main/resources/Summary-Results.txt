@@ -1,0 +1,10 @@
+Scheduling Type: Non-preemptive
+Scheduling Name: Shortest Job First
+Simulation Run Time: 3916
+Mean: 1100
+Standard Deviation: 510
+Process #	CPU Time	IO Blocking	Arrival time	CPU Completed	CPU Blocked
+0			1288 (ms)	100 (ms)	168 (ms)		1288 (ms)		12 times
+1			1221 (ms)	200 (ms)	304 (ms)		1221 (ms)		6 times
+2			1305 (ms)	300 (ms)	83 (ms)			1305 (ms)		4 times
+3			100 (ms)	400 (ms)	2 (ms)			100 (ms)		0 times
